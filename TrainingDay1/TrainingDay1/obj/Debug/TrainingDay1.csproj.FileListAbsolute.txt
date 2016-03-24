@@ -1,0 +1,6 @@
+c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay1\TrainingDay1\bin\Debug\TrainingDay1.exe.config
+c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay1\TrainingDay1\bin\Debug\TrainingDay1.exe
+c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay1\TrainingDay1\bin\Debug\TrainingDay1.pdb
+c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay1\TrainingDay1\obj\Debug\TrainingDay1.csprojResolveAssemblyReference.cache
+c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay1\TrainingDay1\obj\Debug\TrainingDay1.exe
+c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay1\TrainingDay1\obj\Debug\TrainingDay1.pdb
