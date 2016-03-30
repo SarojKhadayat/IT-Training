@@ -1,0 +1,5 @@
+D:\GIT\Training-Repo\Training-Day-07\MyLibrary\bin\Debug\MyLibrary.dll
+D:\GIT\Training-Repo\Training-Day-07\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\GIT\Training-Repo\Training-Day-07\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+D:\GIT\Training-Repo\Training-Day-07\MyLibrary\obj\Debug\MyLibrary.dll
+D:\GIT\Training-Repo\Training-Day-07\MyLibrary\obj\Debug\MyLibrary.pdb

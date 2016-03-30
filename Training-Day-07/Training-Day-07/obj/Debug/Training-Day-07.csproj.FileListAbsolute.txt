@@ -1,0 +1,8 @@
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\bin\Debug\Training-Day-07.exe.config
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\bin\Debug\Training-Day-07.exe
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\bin\Debug\Training-Day-07.pdb
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\obj\Debug\Training-Day-07.csprojResolveAssemblyReference.cache
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\obj\Debug\Training-Day-07.exe
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\obj\Debug\Training-Day-07.pdb
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\bin\Debug\MyLibrary.dll
+D:\GIT\Training-Repo\Training-Day-07\Training-Day-07\bin\Debug\MyLibrary.pdb
