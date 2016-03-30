@@ -1,0 +1,8 @@
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\bin\Debug\TrainingDay3.exe.config
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\bin\Debug\TrainingDay3.exe
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\bin\Debug\TrainingDay3.pdb
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\bin\Debug\ClassLibrary.dll
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\bin\Debug\ClassLibrary.pdb
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\obj\Debug\TrainingDay3.csprojResolveAssemblyReference.cache
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\obj\Debug\TrainingDay3.exe
+D:\GIT\Training-Repo\TrainingDay3\TrainingDay3\obj\Debug\TrainingDay3.pdb

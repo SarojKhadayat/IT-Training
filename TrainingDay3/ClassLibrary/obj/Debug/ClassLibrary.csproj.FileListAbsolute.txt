@@ -1,0 +1,4 @@
+D:\GIT\Training-Repo\TrainingDay3\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\GIT\Training-Repo\TrainingDay3\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\GIT\Training-Repo\TrainingDay3\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\GIT\Training-Repo\TrainingDay3\ClassLibrary\obj\Debug\ClassLibrary.pdb
