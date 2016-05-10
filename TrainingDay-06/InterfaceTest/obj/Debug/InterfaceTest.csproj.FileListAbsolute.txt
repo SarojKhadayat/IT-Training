@@ -1,5 +1,0 @@
-D:\GIT\Training-Repo\TrainingDay-06\InterfaceTest\bin\Debug\InterfaceTest.dll
-D:\GIT\Training-Repo\TrainingDay-06\InterfaceTest\bin\Debug\InterfaceTest.pdb
-D:\GIT\Training-Repo\TrainingDay-06\InterfaceTest\obj\Debug\InterfaceTest.csprojResolveAssemblyReference.cache
-D:\GIT\Training-Repo\TrainingDay-06\InterfaceTest\obj\Debug\InterfaceTest.dll
-D:\GIT\Training-Repo\TrainingDay-06\InterfaceTest\obj\Debug\InterfaceTest.pdb

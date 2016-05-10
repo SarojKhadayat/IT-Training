@@ -1,5 +1,0 @@
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\StudentLibrary\bin\Debug\StudentLibrary.dll
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\StudentLibrary\bin\Debug\StudentLibrary.pdb
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\StudentLibrary\obj\Debug\StudentLibrary.dll
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\StudentLibrary\obj\Debug\StudentLibrary.pdb

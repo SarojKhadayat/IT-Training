@@ -1,8 +1,0 @@
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\bin\Debug\TrainingDay2.exe.config
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\bin\Debug\TrainingDay2.exe
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\bin\Debug\TrainingDay2.pdb
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\obj\Debug\TrainingDay2.exe
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\obj\Debug\TrainingDay2.pdb
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\bin\Debug\StudentLibrary.dll
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\bin\Debug\StudentLibrary.pdb
-c:\users\saroz\documents\visual studio 2013\Projects\TrainingDay2\TrainingDay2\obj\Debug\TrainingDay2.csprojResolveAssemblyReference.cache

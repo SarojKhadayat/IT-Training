@@ -1,0 +1,4 @@
+C:\Users\saroz\Documents\Visual Studio 2013\Projects\ConsoleProject1\Library1\bin\Debug\Library1.dll
+C:\Users\saroz\Documents\Visual Studio 2013\Projects\ConsoleProject1\Library1\bin\Debug\Library1.pdb
+C:\Users\saroz\Documents\Visual Studio 2013\Projects\ConsoleProject1\Library1\obj\Debug\Library1.dll
+C:\Users\saroz\Documents\Visual Studio 2013\Projects\ConsoleProject1\Library1\obj\Debug\Library1.pdb

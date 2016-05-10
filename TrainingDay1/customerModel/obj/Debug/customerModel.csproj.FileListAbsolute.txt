@@ -1,4 +1,0 @@
-C:\Users\saroz\documents\visual studio 2013\Projects\TrainingDay1\customerModel\bin\Debug\customerModel.dll
-C:\Users\saroz\documents\visual studio 2013\Projects\TrainingDay1\customerModel\bin\Debug\customerModel.pdb
-C:\Users\saroz\documents\visual studio 2013\Projects\TrainingDay1\customerModel\obj\Debug\customerModel.dll
-C:\Users\saroz\documents\visual studio 2013\Projects\TrainingDay1\customerModel\obj\Debug\customerModel.pdb

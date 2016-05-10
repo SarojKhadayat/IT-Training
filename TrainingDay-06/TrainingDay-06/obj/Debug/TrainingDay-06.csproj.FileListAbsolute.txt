@@ -1,8 +1,0 @@
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\bin\Debug\TrainingDay-06.exe.config
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\bin\Debug\TrainingDay-06.exe
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\bin\Debug\TrainingDay-06.pdb
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\bin\Debug\InterfaceTest.dll
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\bin\Debug\InterfaceTest.pdb
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\obj\Debug\TrainingDay-06.csprojResolveAssemblyReference.cache
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\obj\Debug\TrainingDay-06.exe
-D:\GIT\Training-Repo\TrainingDay-06\TrainingDay-06\obj\Debug\TrainingDay-06.pdb
